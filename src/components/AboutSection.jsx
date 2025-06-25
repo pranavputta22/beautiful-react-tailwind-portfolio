@@ -12,19 +12,18 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Passionate Software Engineer
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I'm currently studying computer engineering at Purdue University.
+              I have 5+ years of experience in software/hardware development.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
+              I'm passionate about building solutions to real-world problems,
+              and I'm constantly learning new technologies
+              to stay updated with the evolving software
               landscape.
             </p>
 
@@ -38,7 +37,7 @@ export const AboutSection = () => {
                 href=""
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Download CV
+                Download Resume
               </a>
             </div>
           </div>
@@ -50,10 +49,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg">Software Development</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+                    Using various languages for full-stack integration.
                   </p>
                 </div>
               </div>
@@ -64,9 +62,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">AI Engineering</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
+                    Calling APIs and building AI models to enhance user
                     experiences.
                   </p>
                 </div>
@@ -81,8 +79,8 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Project Management</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Leading projects with modern techniques to solve
+                    real-world issues.
                   </p>
                 </div>
               </div>
