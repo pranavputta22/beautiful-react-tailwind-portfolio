@@ -6,7 +6,7 @@ const projects = [
     title: "OrgoMap",
     description: "A chatbot that can solve complex ochem image-generation tasks.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    tags: ["React", "TailwindCSS", "Django"],
     demoUrl: "https://orgomap.org/",
     githubUrl: "#",
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "Tool that simulates mock technival interviews with an AI Agent.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["React", "TailwindCSS.js", "Next.js"],
     demoUrl: "https://www.prepsify.com/",
     githubUrl: "#",
   },
@@ -26,7 +26,7 @@ const projects = [
     description:
       "Online FGPA tool capable of simulating live hardware lab experiments.",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["AlphaJS", "CherryPy", "HTML"],
     demoUrl: "https://ecelabs.io/",
     githubUrl: "#",
   },
